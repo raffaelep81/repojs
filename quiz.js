@@ -1,0 +1,48 @@
+var input = [
+  {
+    slug: "Start",
+    text: "Are you a human or a horse?",
+    connectsto: "human~ horse",
+    connectstext: "Human~ Horse",
+    toolTipText: "I am a human~ I am a horse",
+    rowNumber: 1,
+    nostoId: "",
+  },
+  {
+    slug: "human",
+    text: "Which human clothing do you wanna buy: T-Shirt or trousers?",
+    connectsto: "tshirt~ trousers",
+    connectstext: "T-Shirts~ Trousers",
+    toolTipText: "Show me some T-Shirts~ Gimme Trousers",
+    rowNumber: 2,
+    nostoId: "",
+  },
+  {
+    slug: "tshirt",
+    text: "Here some T-Shirt for you",
+    connectsto: "End",
+    connectstext: "The End",
+    toolTipText: "",
+    rowNumber: 3,
+    nostoId: "nosto-tshirt",
+  },
+  {
+    slug: "trousers",
+    text: "Here some trousers for you",
+    toolTipText: "",
+    connectsto: "End",
+    connectstext: "The End",
+    rowNumber: 4,
+    nostoId: "nosto-trousers",
+  },
+  {
+    slug: "horse",
+    text:
+      "I am sorry, we only serve humans in this online store. Come back when you will walk on two legs only.",
+    connectsto: "End",
+    connectstext: "The End",
+    toolTipText: "",
+    rowNumber: 5,
+    nostoId: "",
+  },
+];
