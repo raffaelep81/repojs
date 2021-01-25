@@ -1,10 +1,10 @@
 var input = [
   {
     slug: "Start",
-    text: "<img src='media/catalog/product/5/0/500-117088.jpg' width='100' />",
+    text: "Are you a human or a horse?",
     connectsto: "human~ horse",
-    connectstext: "Human~ Horse",
-    toolTipText: "I am a human~ I am a horse",
+    connectstext: "Human2~ Horse2",
+    toolTipText: "I am a human3~ I am a horse3",
     rowNumber: 1,
     nostoId: "",
   },
