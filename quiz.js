@@ -1,7 +1,7 @@
 var input = [
   {
     slug: "Start",
-    text: "Are you a human or a horse?",
+    text: "<img src='media/catalog/product/5/0/500-117088.jpg' width='100' />",
     connectsto: "human~ horse",
     connectstext: "Human~ Horse",
     toolTipText: "I am a human~ I am a horse",
