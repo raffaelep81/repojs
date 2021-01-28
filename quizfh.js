@@ -13,7 +13,7 @@ var input = [
   
   {
     slug: "her",
-    text: "Q2/4<br />What <br/>role does <br/>she play<br/> in your<br/> heart?",
+    text: "Q2/4<br />What <br/>makes her<br/> the one?",
     connectsto: "her-love~ her-friend",
     connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115673' width='100%' />~ <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115646' width='100%' />",
     toolTipText: "My Love~ My friend",
@@ -118,7 +118,7 @@ var input = [
   
   {
     slug: "him",
-    text: "Q2/4<br />What <br/>role does <br/>he play<br/> in your<br/> heart?",
+    text: "Q2/4<br />What <br/>makes him<br/> the one?",
     connectsto: "him-love~ him-friend",
     connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115673' width='100%' />~ \n\
                    <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115646' width='100%' />",
