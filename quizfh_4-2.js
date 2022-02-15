@@ -2,7 +2,7 @@ var input = [
   {
     slug: "Start",
     text: "Q1/3<br />Who are you<br /> choosing the<br /> ring for?",
-    connectsto: "her-love~ her-friend",
+    connectsto: "new-be~ someone-special",
     connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449207005600.8577038070957599' width='100%' />~ <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449207005610.6953611861535318' width='100%' />", 
     toolTipText: "New to be~ Someone special",
     rowNumber: 1,
@@ -13,9 +13,9 @@ var input = [
   //love
   
   {
-    slug: "her-love",
+    slug: "new-be",
     text: "Q2/3<br />What material<br /> do you prefer?",
-    connectsto: "her-love-ontrend~ her-love-luxurious",
+    connectsto: "new-be-ontrend~ new-be-luxurious",
     connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115675' width='100%' />~ \n\
                    <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115674' width='100%' />",
     toolTipText: "On Trend~ Luxurious",
@@ -23,7 +23,7 @@ var input = [
     nostoId: ""
   },
   {
-    slug: "her-love-luxurious",
+    slug: "new-be-luxurious",
     text: "Q4/4<br />Do you<br /> already<br /> have an <br />idea?",
     connectsto: "The End~ The End~ The End~ The End",
     connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/luxurious/diamond-jewellery'>\n\
@@ -39,7 +39,7 @@ var input = [
     nostoId: ""
   },
   {
-    slug: "her-love-ontrend",
+    slug: "new-be-ontrend",
     text: "Q4/4<br />Do you<br /> already<br /> have an <br />idea?",
     connectsto: "The End~ The End~ The End~ The End",
     connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/fashionable/jewellery'>\n\
@@ -58,9 +58,9 @@ var input = [
   //friend
   
   {
-    slug: "her-friend",
+    slug: "someone-special",
     text: "Q2/3<br />What material<br /> do you prefer?",
-    connectsto: "her-friend-ontrend~ her-friend-luxurious ",
+    connectsto: "someone-special-ontrend~ someone-special-luxurious ",
     connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115675' width='100%' />~ \n\
                    <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115674' width='100%' />",
     toolTipText: "On Trend~ Luxurious",
@@ -69,7 +69,7 @@ var input = [
   },
   
   {
-    slug: "her-friend-luxurious",
+    slug: "someone-special-luxurious",
     text: "Q4/4<br />Do you<br /> already<br /> have an <br />idea?",
     connectsto: "The End~ The End~ The End~ The End",
     connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/luxurious/diamond-jewellery'>\n\
@@ -85,7 +85,7 @@ var input = [
     nostoId: ""
   },
   {
-    slug: "her-friend-ontrend",
+    slug: "someone-special-ontrend",
     text: "Q4/4<br />Do you<br /> already<br /> have an <br />idea?",
     connectsto: "The End~ The End~ The End~ The End",
     connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/fashionable/earrings'>\n\
