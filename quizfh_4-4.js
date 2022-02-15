@@ -16,10 +16,11 @@ var input = [
     slug: "new-be",
     text: "Q2/3<br />What material<br /> do you prefer?",
     connectsto: "new-be-ontrend~ new-be-luxurious",
-    connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115675' width='100%' />~ \n\
-                   <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115674' width='100%' />",
+    connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449274864840.5006180028842768' width='100%' />~ \n\
+                   <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449274864860.6080399958141844' width='100%' />~ \n\
+                   <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449274864870.25074855782623695' width='100%' />",
     toolTipText: "On Trend~ Luxurious",
-    rowNumber: 3,
+    rowNumber: 2,
     nostoId: ""
   },
   {
@@ -35,7 +36,7 @@ var input = [
                    <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/luxurious/'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115670' width='100%' /></a>",
     toolTipText: "Diamond Jewellery~ Engagement Rings~ Luxurious Watches~ Inspire Me",
-    rowNumber: 4,
+    rowNumber: 3,
     nostoId: ""
   },
   {
@@ -51,7 +52,7 @@ var input = [
                    <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/fashionable/'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115670' width='100%' /></a>",
     toolTipText: "Jewellery~ Engagement Rings~ Fashion Watches~ Inspire Me",
-    rowNumber: 4,
+    rowNumber: 3,
     nostoId: ""
   },
   
@@ -61,10 +62,11 @@ var input = [
     slug: "someone-special",
     text: "Q2/3<br />What material<br /> do you prefer?",
     connectsto: "someone-special-ontrend~ someone-special-luxurious ",
-    connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115675' width='100%' />~ \n\
-                   <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115674' width='100%' />",
+    connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449274864840.5006180028842768' width='100%' />~ \n\
+                   <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449274864860.6080399958141844' width='100%' />~ \n\
+                   <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449274864870.25074855782623695' width='100%' />",
     toolTipText: "On Trend~ Luxurious",
-    rowNumber: 3,
+    rowNumber: 2,
     nostoId: ""
   },
   
@@ -81,7 +83,7 @@ var input = [
                    <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/luxurious/'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115670' width='100%' /></a>",
     toolTipText: "Diamond Jewellery~ Jewellery Brands~ Luxurious Watches~ Inspire Me",
-    rowNumber: 4,
+    rowNumber: 3,
     nostoId: ""
   },
   {
@@ -97,7 +99,7 @@ var input = [
                    <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/fashionable/'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115670' width='100%' /></a>",
     toolTipText: "Earrings~ Pendants~ Fashion Watches~ Inspire Me",
-    rowNumber: 4,
+    rowNumber: 3,
     nostoId: ""
   }
   
