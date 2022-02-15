@@ -20,7 +20,7 @@ var input = [
     connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449274864840.5006180028842768' width='100%' />~ \n\
                    <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449274864860.6080399958141844' width='100%' />~ \n\
                    <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449274864870.25074855782623695' width='100%' />",
-    toolTipText: "On Trend~ Luxurious",
+    toolTipText: "Platinum~ White Gold~ Yellow Gold",
     rowNumber: 2,
     nostoId: ""
   },
@@ -36,7 +36,7 @@ var input = [
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833300.4646510722660715' width='100%' /></a>~ \n\
                    <a href='https://www.fraserhart.co.uk/engagement-rings/style/halo?material_summary=7984'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833310.9518967172633173' width='100%' /></a>",
-    toolTipText: "Diamond Jewellery~ Engagement Rings~ Luxurious Watches~ Inspire Me",
+    toolTipText: "Solitaire~ Three stone~ Cluster~ Halo",
     rowNumber: 3,
     nostoId: ""
   },
@@ -52,7 +52,7 @@ var input = [
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833300.4646510722660715' width='100%' /></a>~ \n\
                    <a href='https://www.fraserhart.co.uk/engagement-rings/style/halo?material_summary=8050'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833310.9518967172633173' width='100%' /></a>",
-    toolTipText: "Jewellery~ Engagement Rings~ Fashion Watches~ Inspire Me",
+    toolTipText: "Solitaire~ Three stone~ Cluster~ Halo",
     rowNumber: 3,
     nostoId: ""
   },
@@ -68,7 +68,7 @@ var input = [
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833300.4646510722660715' width='100%' /></a>~ \n\
                    <a href='https://www.fraserhart.co.uk/engagement-rings/style/halo?material_summary=8059'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833310.9518967172633173' width='100%' /></a>",
-    toolTipText: "Diamond Jewellery~ Engagement Rings~ Luxurious Watches~ Inspire Me",
+    toolTipText: "Solitaire~ Three stone~ Cluster~ Halo",
     rowNumber: 3,
     nostoId: ""
   },
@@ -82,7 +82,7 @@ var input = [
     connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449274864840.5006180028842768' width='100%' />~ \n\
                    <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449274864860.6080399958141844' width='100%' />~ \n\
                    <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449274864870.25074855782623695' width='100%' />",
-    toolTipText: "On Trend~ Luxurious",
+    toolTipText: "Platinum~ White Gold~ Yellow Gold",
     rowNumber: 2,
     nostoId: ""
   },
@@ -99,7 +99,7 @@ var input = [
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833300.4646510722660715' width='100%' /></a>~ \n\
                    <a href='https://www.fraserhart.co.uk/engagement-rings/style/halo?material_summary=7984'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833310.9518967172633173' width='100%' /></a>",
-    toolTipText: "Diamond Jewellery~ Jewellery Brands~ Luxurious Watches~ Inspire Me",
+    toolTipText: "Solitaire~ Three stone~ Cluster~ Halo",
     rowNumber: 3,
     nostoId: ""
   },
@@ -116,7 +116,7 @@ var input = [
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833300.4646510722660715' width='100%' /></a>~ \n\
                    <a href='https://www.fraserhart.co.uk/engagement-rings/style/halo?material_summary=8050'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833310.9518967172633173' width='100%' /></a>",
-    toolTipText: "Diamond Jewellery~ Jewellery Brands~ Luxurious Watches~ Inspire Me",
+    toolTipText: "Solitaire~ Three stone~ Cluster~ Halo",
     rowNumber: 3,
     nostoId: ""
   },
@@ -133,7 +133,7 @@ var input = [
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833300.4646510722660715' width='100%' /></a>~ \n\
                    <a href='https://www.fraserhart.co.uk/engagement-rings/style/halo?material_summary=8059'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833310.9518967172633173' width='100%' /></a>",
-    toolTipText: "Earrings~ Pendants~ Fashion Watches~ Inspire Me",
+    toolTipText: "Solitaire~ Three stone~ Cluster~ Halo",
     rowNumber: 3,
     nostoId: ""
   }
