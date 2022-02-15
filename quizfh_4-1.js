@@ -2,24 +2,13 @@ var input = [
   {
     slug: "Start",
     text: "Q1/3<br />Who are you<br /> choosing the<br /> ring for?",
-    connectsto: "her~ him",
+    connectsto: "her-love~ her-friend",
     connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449207005600.8577038070957599' width='100%' />~ <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449207005610.6953611861535318' width='100%' />", 
     toolTipText: "New to be~ Someone special",
     rowNumber: 1,
     nostoId: ""
   },
   
-  //For Her
-  
-  {
-    slug: "her",
-    text: "Q2/4<br />What <br/>makes her<br/> the one?",
-    connectsto: "her-love~ her-friend",
-    connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115673' width='100%' />~ <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115646' width='100%' />",
-    toolTipText: "My Love~ My friend",
-    rowNumber: 2,
-    nostoId: ""
-  },
   
   //love
   
@@ -110,111 +99,6 @@ var input = [
     toolTipText: "Earrings~ Pendants~ Fashion Watches~ Inspire Me",
     rowNumber: 4,
     nostoId: ""
-  },
-  
-  
-  //For Him
-  
-  
-  {
-    slug: "him",
-    text: "Q2/4<br />What <br/>makes him<br/> the one?",
-    connectsto: "him-love~ him-friend",
-    connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115673' width='100%' />~ \n\
-                   <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115646' width='100%' />",
-    toolTipText: "My Love~ My friend",
-    rowNumber: 2,
-    nostoId: ""
-  },
-  
-  //love
-  
-  {
-    slug: "him-love",
-    text: "Q3/4<br />What<br /> kind of <br />man<br /> is he?",
-    connectsto: "him-love-ontrend~ him-love-luxurious",
-    connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115675' width='100%' />~ \n\
-                   <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115674' width='100%' />",
-    toolTipText: "On Trend~ Luxurious",
-    rowNumber: 3,
-    nostoId: ""
-  },
-  {
-    slug: "him-love-luxurious",
-    text: "Q4/4<br />Do you<br /> already<br /> have an <br />idea?",
-    connectsto: "The End~ The End~ The End~ The End",
-    connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-him/my-love/luxurious/jewellery'>\n\
-                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115672' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-him/my-love/luxurious/luxury-watches'>\n\
-                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115667' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-him/my-love/luxurious/accessories'>\n\
-                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115665' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-him/my-love/luxurious/'>\n\
-                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115670' width='100%' /></a>",
-    toolTipText: "Jewellery~ Luxurious Watches~ Accessories~ Inspire Me",
-    rowNumber: 4,
-    nostoId: ""
-  },
-  {
-    slug: "him-love-ontrend",
-    text: "Q4/4<br />Do you<br /> already<br /> have an <br />idea?",
-    connectsto: "The End~ The End~ The End~ The End",
-    connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-him/my-love/fashionable/jewellery'>\n\
-                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115672' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-him/my-love/fashionable/fashion-watches'>\n\
-                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115668' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-him/my-love/fashionable/accessories'>\n\
-                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115665' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-him/my-love/fashionable'>\n\
-                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115670' width='100%' /></a>",
-    toolTipText: "Jewellery~ Fashion Watches~ Accessories~ Inspire Me",
-    rowNumber: 4,
-    nostoId: ""
-  },
-  
-  //friend
-  
-  {
-    slug: "him-friend",
-    text: "Q3/4<br />What<br /> kind of <br />man<br /> is he?",
-    connectsto: "him-friend-ontrend~ him-friend-luxurious",
-    connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115675' width='100%' />~ \n\
-                   <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115674' width='100%' />",
-    toolTipText: "On Trend~ Luxurious",
-    rowNumber: 3,
-    nostoId: ""
-  },
-  {
-    slug: "him-friend-luxurious",
-    text: "Q4/4<br />Do you<br /> already<br /> have an <br />idea?",
-    connectsto: "The End~ The End~ The End~ The End",
-    connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-him/my-friend/luxurious/jewellery'>\n\
-                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115642' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-him/my-friend/luxurious/luxury-watches'>\n\
-                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115667' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-him/my-friend/luxurious/accessories'>\n\
-                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115665' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-him/my-friend/luxurious/'>\n\
-                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115670' width='100%' /></a>",
-    toolTipText: "Jewellery~ Luxurious Watches~ Accessories~ Inspire Me",
-    rowNumber: 4,
-    nostoId: ""
-  },
-  {
-    slug: "him-friend-ontrend",
-    text: "Q4/4<br />Do you<br /> already<br /> have an <br />idea?",
-    connectsto: "The End~ The End~ The End~ The End",
-    connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-him/my-friend/fashionable/jewellery'>\n\
-                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115642' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-him/my-friend/fashionable/fashion-watches'>\n\
-                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115668' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-him/my-friend/fashionable/accessories'>\n\
-                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115665' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-him/my-friend/fashionable/'>\n\
-                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115670' width='100%' /></a>",
-    toolTipText: "Jewellery~ Fashion Watches~ Accessories~ Inspire Me",
-    rowNumber: 4,
-    nostoId: ""
-  },
+  }
   
 ];
