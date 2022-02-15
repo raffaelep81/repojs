@@ -26,15 +26,15 @@ var input = [
   },
   {
     slug: "new-be-platinum",
-    text: "Q3/3<br />Do you<br /> already<br /> have an <br />idea?",
+    text: "Q3/3<br />What is your<br /> preferred style?",
     connectsto: "The End~ The End~ The End~ The End",
-    connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/luxurious/diamond-jewellery'>\n\
+    connectstext: "<a href='https://www.fraserhart.co.uk/engagement-rings/style/solitaire?material_summary=7984'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833210.16772979831976897' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/luxurious/engagement-rings'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/three-stone?material_summary=7984'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833250.9363552392021728' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/luxurious/luxurious-watches'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/cluster?material_summary=7984'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833300.4646510722660715' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/luxurious/'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/halo?material_summary=7984'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833310.9518967172633173' width='100%' /></a>",
     toolTipText: "Diamond Jewellery~ Engagement Rings~ Luxurious Watches~ Inspire Me",
     rowNumber: 3,
@@ -42,15 +42,15 @@ var input = [
   },
   {
     slug: "new-be-whitegold",
-    text: "Q3/3<br />Do you<br /> already<br /> have an <br />idea?",
+    text: "Q3/3<br />What is your<br /> preferred style?",
     connectsto: "The End~ The End~ The End~ The End",
-    connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/fashionable/jewellery'>\n\
+    connectstext: "<a href='https://www.fraserhart.co.uk/engagement-rings/style/solitaire?material_summary=8050'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833210.16772979831976897' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/fashionable/engagement-rings'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/three-stone?material_summary=8050'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833250.9363552392021728' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/fashionable/fashion-watches'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/cluster?material_summary=8050'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833300.4646510722660715' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/fashionable/'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/halo?material_summary=8050'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833310.9518967172633173' width='100%' /></a>",
     toolTipText: "Jewellery~ Engagement Rings~ Fashion Watches~ Inspire Me",
     rowNumber: 3,
@@ -58,15 +58,15 @@ var input = [
   },
   {
     slug: "new-be-yellowgold",
-    text: "Q3/3<br />Do you<br /> already<br /> have an <br />idea?",
+    text: "Q3/3<br />What is your<br /> preferred style?",
     connectsto: "The End~ The End~ The End~ The End",
-    connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/luxurious/diamond-jewellery'>\n\
+    connectstext: "<a href='https://www.fraserhart.co.uk/engagement-rings/style/solitaire?material_summary=8059'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833210.16772979831976897' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/luxurious/engagement-rings'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/three-stone?material_summary=8059'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833250.9363552392021728' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/luxurious/luxurious-watches'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/cluster?material_summary=8059'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833300.4646510722660715' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/luxurious/'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/halo?material_summary=8059'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833310.9518967172633173' width='100%' /></a>",
     toolTipText: "Diamond Jewellery~ Engagement Rings~ Luxurious Watches~ Inspire Me",
     rowNumber: 3,
@@ -89,15 +89,15 @@ var input = [
   
   {
     slug: "someone-special-platinum",
-    text: "Q3/3<br />Do you<br /> already<br /> have an <br />idea?",
+    text: "Q3/3<br />What is your<br /> preferred style?",
     connectsto: "The End~ The End~ The End~ The End",
-    connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/luxurious/diamond-jewellery'>\n\
+    connectstext: "<a href='https://www.fraserhart.co.uk/engagement-rings/style/solitaire?material_summary=7984'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833210.16772979831976897' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/luxurious/jewellery-brands'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/three-stone?material_summary=7984'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833250.9363552392021728' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/luxurious/luxurious-watches'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/cluster?material_summary=7984'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833300.4646510722660715' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/luxurious/'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/halo?material_summary=7984'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833310.9518967172633173' width='100%' /></a>",
     toolTipText: "Diamond Jewellery~ Jewellery Brands~ Luxurious Watches~ Inspire Me",
     rowNumber: 3,
@@ -106,15 +106,15 @@ var input = [
   
   {
     slug: "someone-special-whitegold",
-    text: "Q3/3<br />Do you<br /> already<br /> have an <br />idea?",
+    text: "Q3/3<br />What is your<br /> preferred style?",
     connectsto: "The End~ The End~ The End~ The End",
-    connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/luxurious/diamond-jewellery'>\n\
+    connectstext: "<a href='https://www.fraserhart.co.uk/engagement-rings/style/solitaire?material_summary=8050'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833210.16772979831976897' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/luxurious/jewellery-brands'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/three-stone?material_summary=8050'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833250.9363552392021728' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/luxurious/luxurious-watches'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/cluster?material_summary=8050'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833300.4646510722660715' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/luxurious/'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/halo?material_summary=8050'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833310.9518967172633173' width='100%' /></a>",
     toolTipText: "Diamond Jewellery~ Jewellery Brands~ Luxurious Watches~ Inspire Me",
     rowNumber: 3,
@@ -123,15 +123,15 @@ var input = [
   
   {
     slug: "someone-special-yellowgold",
-    text: "Q3/3<br />Do you<br /> already<br /> have an <br />idea?",
+    text: "Q3/3<br />What is your<br /> preferred style?",
     connectsto: "The End~ The End~ The End~ The End",
-    connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/fashionable/earrings'>\n\
+    connectstext: "<a href='https://www.fraserhart.co.uk/engagement-rings/style/solitaire?material_summary=8059'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833210.16772979831976897' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/fashionable/pendants'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/three-stone?material_summary=8059'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833250.9363552392021728' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/fashionable/fashion-watches'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/cluster?material_summary=8059'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833300.4646510722660715' width='100%' /></a>~ \n\
-                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/fashionable/'>\n\
+                   <a href='https://www.fraserhart.co.uk/engagement-rings/style/halo?material_summary=8059'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449348833310.9518967172633173' width='100%' /></a>",
     toolTipText: "Earrings~ Pendants~ Fashion Watches~ Inspire Me",
     rowNumber: 3,
