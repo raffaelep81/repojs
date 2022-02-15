@@ -1,7 +1,7 @@
 var input = [
   {
     slug: "Start",
-    text: "Q1/4<br />Who are you<br /> choosing the<br /> for?",
+    text: "Q1/4<br />Who are you<br /> choosing the<br /> ring for?",
     connectsto: "her~ him",
     connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449207005600.8577038070957599' width='100%' />~ <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449207005610.6953611861535318' width='100%' />", 
     toolTipText: "Her~ Him",
