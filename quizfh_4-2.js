@@ -14,7 +14,7 @@ var input = [
   
   {
     slug: "her-love",
-    text: "Q3/4<br />What<br /> kind of <br />woman<br /> is she?",
+    text: "Q2/3<br />What material<br /> do you prefer?",
     connectsto: "her-love-ontrend~ her-love-luxurious",
     connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115675' width='100%' />~ \n\
                    <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115674' width='100%' />",
@@ -59,7 +59,7 @@ var input = [
   
   {
     slug: "her-friend",
-    text: "Q3/4<br />What<br /> kind of <br />woman<br /> is she?",
+    text: "Q2/3<br />What material<br /> do you prefer?",
     connectsto: "her-friend-ontrend~ her-friend-luxurious ",
     connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115675' width='100%' />~ \n\
                    <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115674' width='100%' />",
