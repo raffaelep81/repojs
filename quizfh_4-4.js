@@ -25,7 +25,7 @@ var input = [
   },
   {
     slug: "new-be-luxurious",
-    text: "Q4/4<br />Do you<br /> already<br /> have an <br />idea?",
+    text: "Q3/3<br />Do you<br /> already<br /> have an <br />idea?",
     connectsto: "The End~ The End~ The End~ The End",
     connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/luxurious/diamond-jewellery'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115657' width='100%' /></a>~ \n\
@@ -41,7 +41,7 @@ var input = [
   },
   {
     slug: "new-be-ontrend",
-    text: "Q4/4<br />Do you<br /> already<br /> have an <br />idea?",
+    text: "Q3/3<br />Do you<br /> already<br /> have an <br />idea?",
     connectsto: "The End~ The End~ The End~ The End",
     connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-love/fashionable/jewellery'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115660' width='100%' /></a>~ \n\
@@ -61,7 +61,7 @@ var input = [
   {
     slug: "someone-special",
     text: "Q2/3<br />What material<br /> do you prefer?",
-    connectsto: "someone-special-ontrend~ someone-special-luxurious ",
+    connectsto: "someone-special-platinum~ someone-special-whitegold~ someone-special-yellowgold ",
     connectstext: "<img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449274864840.5006180028842768' width='100%' />~ \n\
                    <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449274864860.6080399958141844' width='100%' />~ \n\
                    <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/16449274864870.25074855782623695' width='100%' />",
@@ -71,8 +71,8 @@ var input = [
   },
   
   {
-    slug: "someone-special-luxurious",
-    text: "Q4/4<br />Do you<br /> already<br /> have an <br />idea?",
+    slug: "someone-special-whitegold",
+    text: "Q3/3<br />Do you<br /> already<br /> have an <br />idea?",
     connectsto: "The End~ The End~ The End~ The End",
     connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/luxurious/diamond-jewellery'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115657' width='100%' /></a>~ \n\
@@ -86,9 +86,27 @@ var input = [
     rowNumber: 3,
     nostoId: ""
   },
+  
   {
-    slug: "someone-special-ontrend",
-    text: "Q4/4<br />Do you<br /> already<br /> have an <br />idea?",
+    slug: "someone-special-yellowgold",
+    text: "Q3/3<br />Do you<br /> already<br /> have an <br />idea?",
+    connectsto: "The End~ The End~ The End~ The End",
+    connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/luxurious/diamond-jewellery'>\n\
+                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115657' width='100%' /></a>~ \n\
+                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/luxurious/jewellery-brands'>\n\
+                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115654' width='100%' /></a>~ \n\
+                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/luxurious/luxurious-watches'>\n\
+                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115661' width='100%' /></a>~ \n\
+                   <a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/luxurious/'>\n\
+                       <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115670' width='100%' /></a>",
+    toolTipText: "Diamond Jewellery~ Jewellery Brands~ Luxurious Watches~ Inspire Me",
+    rowNumber: 3,
+    nostoId: ""
+  },
+  
+  {
+    slug: "someone-special-platinum",
+    text: "Q3/3<br />Do you<br /> already<br /> have an <br />idea?",
     connectsto: "The End~ The End~ The End~ The End",
     connectstext: "<a href='https://www.fraserhart.co.uk/gifts/occasion/valentines/gift-guide/for-her/my-friend/fashionable/earrings'>\n\
                        <img src='https://d21m4dsqdd3b9h.cloudfront.net/magento-387fdf11/onsiteContent/1611770115655' width='100%' /></a>~ \n\
